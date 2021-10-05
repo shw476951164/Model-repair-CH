@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\第三篇准备资料\程序代码\ModelRepair-FL-master(1)\ModelRepair-FL-master\ProM"/>
+			<item value="D:\第三篇准备资料\程序代码\ModelRepair-FL-master(1)"/>
+			<item value="D:\第一篇资料\ProM"/>
+			<item value="D:\3 chengxu\ProM"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="195" key="DIALOG_X_ORIGIN"/>
+		<item value="172" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
